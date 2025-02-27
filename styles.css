@@ -22,7 +22,7 @@ section {
 
 /* Home Section */
 .home {
-    background-image: url('https://portfoliobucket3675.s3.us-east-2.amazonaws.com/images/bg.jpg');
+    background-image: url('images/bg.jpg');
     background-size: cover;         /* Cover the entire section */
     background-position: center;    /* Center the image */
     background-attachment: fixed;   /* Fixed background for parallax effect */
