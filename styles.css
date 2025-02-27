@@ -10,7 +10,7 @@ body {
 
 section {
     padding: 100px 50px;  /* More flexible padding */
-    min-height: 100vh;
+    min-height: 150vh;
     box-sizing: border-box;
 }
 
@@ -283,7 +283,7 @@ section {
     padding: 40px 20px;
     background-color: #8ea8c5;
     text-align: center;
-    height: 30vh;
+    height: 10vh;
 }
 
 #contact h2 {
