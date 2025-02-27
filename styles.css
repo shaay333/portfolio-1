@@ -15,7 +15,7 @@ body {
 
 section {
     padding: 100px 50px;  /* More flexible padding */
-    min-height: 150vh;
+    height:auto;
     box-sizing: border-box;
 }
 
@@ -30,7 +30,7 @@ section {
     color: white;
     padding: 100px 20px;
     text-align: center;
-    height: 100vh;                  /* Full viewport height */
+    height: auto;                  /* Full viewport height */
     display: flex;
     justify-content: center;
     align-items: center;
@@ -123,7 +123,7 @@ section {
     padding: 60px 20px;
     background-color: #bee6db;  /* Light grey background */
     text-align: center;
-    height: 150vh;
+    height: auto;
 }
 
 #about h2 {
@@ -174,7 +174,7 @@ section {
     padding: 60px 20px;
     background-color: #95bbc6;
     text-align: center;
-    height: 100vh; 
+    height: auto; 
 }
 
 #experience h2 {
@@ -229,7 +229,7 @@ section {
     padding: 40px 20px;
     background-color: #95bbc6;
     text-align: center;
-    height: 100vh; 
+    height: auto; 
 }
 
 #projects h2 {
@@ -288,7 +288,7 @@ section {
     padding: 40px 20px;
     background-color: #8ea8c5;
     text-align: center;
-    height: 10vh;
+    height: auto;
 }
 
 #contact h2 {
